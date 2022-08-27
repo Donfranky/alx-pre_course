@@ -1,2 +1,2 @@
 The non empty file
-The file that is not empty, right
+The file that is not empty
